@@ -1,3 +1,3 @@
-## AllFood
--I used  HTML/CSS/BEM/jQuery/JS
+## AllFoodbootstrap/
+-I used  HTML/CSS/BEM/Bootstrap/jQuery/JS
 -look here (annazadoroznaya.github.io/AllFood/).
